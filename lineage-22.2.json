@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1745006888,
+      "filename": "lineage-22.2-20250418-UNOFFICIAL-gta2xlwifi.zip",
+      "id": "7e7ef11c998feb9dd003ef3ccfab5444",
+      "romtype": "UNOFFICIAL",
+      "size": 1087000628,
+      "url": "https://github.com/UDPSendToFailed/OTA/releases/download/20250418/lineage-22.2-20250418-UNOFFICIAL-gta2xlwifi.zip",
+      "version": "22.2"
+    }
+  ]
+}
